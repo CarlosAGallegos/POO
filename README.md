@@ -24,6 +24,13 @@
  - _p19_TrabajandoCaracteres
  - _p20_ConversionTipos
 
+ ## Actividad 4
+ ## Actividad 3 
+ - _p21_VerificarNumero
+ - _p22_VerificarSuma
+ - _p23_ConvertirTemperatura
+ - _p24_PagaTrabajadorV2
+
  ## Practica 1
 - _p10_HipotenusaTriangulo 
 - _p11_CalcularAngulo
