@@ -25,7 +25,6 @@
  - _p20_ConversionTipos
 
  ## Actividad 4
- ## Actividad 3 
  - _p21_VerificarNumero
  - _p22_VerificarSuma
  - _p23_ConvertirTemperatura
