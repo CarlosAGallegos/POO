@@ -30,6 +30,13 @@
  - _p23_ConvertirTemperatura
  - _p24_PagaTrabajadorV2
 
+ ## Actividad 5
+
+- _p25_EstacionesAño
+- _p26_TipoAngulo
+- _p27_AceptarEstudiante
+- _p28_LeyDeNewton
+
  ## Practica 1
 - _p10_HipotenusaTriangulo 
 - _p11_CalcularAngulo
