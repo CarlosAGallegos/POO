@@ -4,7 +4,6 @@
 - Correo: 35161481@uaz.edu.mx
 
 ## Actividad 1
-
 - _p01_HolaMundo
 - _p02_AreaCirculo
 - _p03_AreaTriangulo
@@ -31,11 +30,16 @@
  - _p24_PagaTrabajadorV2
 
  ## Actividad 5
-
 - _p25_EstacionesAño
 - _p26_TipoAngulo
 - _p27_AceptarEstudiante
 - _p28_LeyDeNewton
+
+## Actividad 6
+- _p29_Calculadora
+- _p30_DiaSemana
+- _p31_NumerosRomanos
+- _p32_PagoEstacionamiento
 
  ## Practica 1
 - _p10_HipotenusaTriangulo 
@@ -44,3 +48,11 @@
 - _p13_VolumenCilindro
 - _p14_CalculoTiempo
 - _p15_ConvertirADolar
+
+## Practica 2
+- _p33_NumerosConsecutivos
+- _p34_NumeroMayor
+- _p35_ContinentesMundo
+- _p36_CompraPizza
+- _p37_CalculoNotas
+- _p38_AceptarEstudianteV2
