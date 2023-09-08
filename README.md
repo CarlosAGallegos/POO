@@ -41,6 +41,19 @@
 - _p31_NumerosRomanos
 - _p32_PagoEstacionamiento
 
+## Actividad 7
+- _p39_Numeros1a100
+- _p40_Numeros100a1
+- _p41_ProcesaCalificaciones
+- _p42_TablaMultiplicar
+- _p43_ConteoNumeros
+
+## Actividad 8
+- _p44_ParesAscendente
+- _p45_ImparesDescendente
+- _p46_TablaConversion
+- _p47_ConjeturaCollatz
+
  ## Practica 1
 - _p10_HipotenusaTriangulo 
 - _p11_CalcularAngulo
