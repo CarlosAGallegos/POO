@@ -54,6 +54,13 @@
 - _p46_TablaConversion
 - _p47_ConjeturaCollatz
 
+## Actividad 9
+- _p52_Numeros1aN
+- _p53_NumerosNa1
+- _p54_ArribaAbajo
+- _p55_SumaParesImpares
+- _p56_SumaPromedio
+
  ## Practica 1
 - _p10_HipotenusaTriangulo 
 - _p11_CalcularAngulo
@@ -69,3 +76,9 @@
 - _p36_CompraPizza
 - _p37_CalculoNotas
 - _p38_AceptarEstudianteV2
+
+## Practica 3
+- _p48_ImparesAscendente
+- _p49_ParesDescendente
+- _p50_ConversionTemperaturas
+- _p51_SerieFibonaci
