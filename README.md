@@ -61,6 +61,12 @@
 - _p55_SumaParesImpares
 - _p56_SumaPromedio
 
+## Actividad 10
+- _p57_TablasMultiplicar
+- _p58_Piramide
+- _p59_FactorialNumeros
+- _p60_SumaTerminos
+
  ## Practica 1
 - _p10_HipotenusaTriangulo 
 - _p11_CalcularAngulo
