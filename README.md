@@ -67,6 +67,13 @@
 - _p59_FactorialNumeros
 - _p60_SumaTerminos
 
+## Actividad 11
+- _p65_PromedioNumeros
+- _p66_ConversionTemperaturas
+- _p67_SumaRango
+- _p68_TablaMultiplicar
+- _p69_CalificacionLetra
+
  ## Practica 1
 - _p10_HipotenusaTriangulo 
 - _p11_CalcularAngulo
@@ -88,3 +95,9 @@
 - _p49_ParesDescendente
 - _p50_ConversionTemperaturas
 - _p51_SerieFibonaci
+
+## Practica 4
+- _p61_SecuenciaNumeros1
+- _p62_SecuenciaNumeros2
+- _p63_SumaTerminos1
+- _p64_SumaTerminos2
