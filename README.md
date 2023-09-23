@@ -3,58 +3,58 @@
 - Nombre: Carlos Adan Gallegos Guardado  
 - Correo: 35161481@uaz.edu.mx
 
-## Actividad 1
+## Actividad 01
 - _p01_HolaMundo
 - _p02_AreaCirculo
 - _p03_AreaTriangulo
 - _p04_PagaTrabajador
 
-## Actividad 2
+## Actividad 02
  - _p05_OperacionesMatematicas
  - _p06_PromedioCalificaciones
  - _p07_OperadoresAsignacion
  - _p08_FuncionesTrigonometricas
  - _p09_DividirEnCifras
 
- ## Actividad 3 
+ ## Actividad 03 
  - _p16_TrabajandoEnteros
  - _p17_TrabajandoFlotantes
  - _p18_TrabajandoConstantes
  - _p19_TrabajandoCaracteres
  - _p20_ConversionTipos
 
- ## Actividad 4
+ ## Actividad 04
  - _p21_VerificarNumero
  - _p22_VerificarSuma
  - _p23_ConvertirTemperatura
  - _p24_PagaTrabajadorV2
 
- ## Actividad 5
+ ## Actividad 05
 - _p25_EstacionesAño
 - _p26_TipoAngulo
 - _p27_AceptarEstudiante
 - _p28_LeyDeNewton
 
-## Actividad 6
+## Actividad 06
 - _p29_Calculadora
 - _p30_DiaSemana
 - _p31_NumerosRomanos
 - _p32_PagoEstacionamiento
 
-## Actividad 7
+## Actividad 07
 - _p39_Numeros1a100
 - _p40_Numeros100a1
 - _p41_ProcesaCalificaciones
 - _p42_TablaMultiplicar
 - _p43_ConteoNumeros
 
-## Actividad 8
+## Actividad 08
 - _p44_ParesAscendente
 - _p45_ImparesDescendente
 - _p46_TablaConversion
 - _p47_ConjeturaCollatz
 
-## Actividad 9
+## Actividad 09
 - _p52_Numeros1aN
 - _p53_NumerosNa1
 - _p54_ArribaAbajo
