@@ -74,6 +74,13 @@
 - _p68_TablaMultiplicar
 - _p69_CalificacionLetra
 
+## Actividad 12
+- _p70_MayorTresNumeros
+- _p71_SumaDigitos
+- _p72_SumaParesImpares
+- _p73_Factorial
+- _p74_CuadroCaracter
+
  ## Practica 1
 - _p10_HipotenusaTriangulo 
 - _p11_CalcularAngulo
@@ -101,3 +108,10 @@
 - _p62_SecuenciaNumeros2
 - _p63_SumaTerminos1
 - _p64_SumaTerminos2
+
+## Practica 5
+- _p75_NumeroMenor
+- _p76_DiaSemana  
+- _p77_MedidasLongitud  
+- _p78_SumaMultiplos
+- _p79_Angulo
