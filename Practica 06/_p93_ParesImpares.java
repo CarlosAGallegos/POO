@@ -5,18 +5,41 @@ public class _p93_ParesImpares {
             System.out.print(a[i] + " ");
     }
 
-    public static void GeneraAleatorio(float[] nums) {
+    public static void GeneraAleatorio(int[] a) {
         Random rnd = new Random();
-        for(int i=0; i < nums.length; i++){
-            nums[i] = Math.abs(rnd.nextInt(20));
+        for(int i=0; i < a.length; i++){
+            a[i] = Math.abs(rnd.nextInt(20));
         }
+    }
+
+    public static int Pares(int[] a){
+        int pares = 0;
+        for(int i=0; i < a.length; i++){
+            if(a[i] % 2 == 0){
+                pares++;
+            }
+        }
+        return pares;
+    }
+
+    public static int Impares(int[] a){
+        int impares = 0;
+        for(int i=0; i < a.length; i++){
+            if(a[i] % 2 != 0){
+                impares++;
+            }
+        }
+        return impares;
     }
 
     public static void main(String[] args) {
         int MAX = 100;
-        float[] A = new float[MAX];
-        float[] B = new float[MAX];
-        System.out.println("El arreglo ya con aletorios generados:\n");
+        int[] A = new int[MAX];
+        int[] B = new int[MAX];
+        System.out.println("El arreglo ya con aletorios generados:");
         GeneraAleatorio(A);
+        Mostrar(A);
+        System.out.println("\nCantidad de numeros pares: " + Pares(A));
+        System.out.println("\nCantidad de numeros impares: " + Impares(A));
     }
 }
