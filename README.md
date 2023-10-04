@@ -94,7 +94,10 @@
 - _p88_Aleatorios
 - _p89_ArregloAleatorios
 
- ## Practica 1
+## Examen
+- _p80_PrimerExamenParcial
+
+ ## Practica 01
 - _p10_HipotenusaTriangulo 
 - _p11_CalcularAngulo
 - _p12_ConvertirTemperatura
@@ -102,7 +105,7 @@
 - _p14_CalculoTiempo
 - _p15_ConvertirADolar
 
-## Practica 2
+## Practica 02
 - _p33_NumerosConsecutivos
 - _p34_NumeroMayor
 - _p35_ContinentesMundo
@@ -110,21 +113,27 @@
 - _p37_CalculoNotas
 - _p38_AceptarEstudianteV2
 
-## Practica 3
+## Practica 03
 - _p48_ImparesAscendente
 - _p49_ParesDescendente
 - _p50_ConversionTemperaturas
 - _p51_SerieFibonaci
 
-## Practica 4
+## Practica 04
 - _p61_SecuenciaNumeros1
 - _p62_SecuenciaNumeros2
 - _p63_SumaTerminos1
 - _p64_SumaTerminos2
 
-## Practica 5
+## Practica 05
 - _p75_NumeroMenor
 - _p76_DiaSemana  
 - _p77_MedidasLongitud  
 - _p78_SumaMultiplos
 - _p79_Angulo
+
+## Practica 06
+- _p90_Temperaturas
+- _p91_Mayorespromedio
+- _p92_MayorMenor
+- _p93_ParesImpares
