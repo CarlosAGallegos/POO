@@ -137,3 +137,9 @@
 - _p91_Mayorespromedio
 - _p92_MayorMenor
 - _p93_ParesImpares
+
+## Practica 07
+- _p98_Circulo
+- _p99_Rectangulo
+- _p100_Articulo
+- App
