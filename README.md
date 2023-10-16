@@ -143,3 +143,11 @@
 - _p99_Rectangulo
 - _p100_Articulo
 - App
+
+## Practica 08
+- _p104_PuntoCirculo
+- _p105_PuntoTriangulo
+
+## Practica 09
+- _p108_Vehiculo
+- _p109_FormaV2
