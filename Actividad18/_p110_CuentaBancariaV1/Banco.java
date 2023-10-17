@@ -6,7 +6,7 @@ public class Banco {
     private ArrayList<Cliente> Clientes;
 
     public Banco(){
-        Clientes = new ArrayList<>(null);
+        Clientes = new ArrayList<>();
     }
 
     public Banco(String nombre, String domicilio){
