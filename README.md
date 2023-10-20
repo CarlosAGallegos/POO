@@ -94,6 +94,13 @@
 - _p88_Aleatorios
 - _p89_ArregloAleatorios
 
+## Actividad 18
+### _p110_CuentaBancariaV1
+- App
+- Banco
+- Cliente
+- CuentaBancaria
+
 ## Examen
 - _p80_PrimerExamenParcial
 
@@ -151,3 +158,12 @@
 ## Practica 09
 - _p108_Vehiculo
 - _p109_FormaV2
+
+## Practica 10
+### _p112_ControlVentas
+- App
+- Cliente
+- Tienda
+- Venta
+- VentaContado
+- VentaCredito

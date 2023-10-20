@@ -10,7 +10,7 @@ public class App {
         double cretiro = 1500;
         boolean retiro = cuenta1.retira(cretiro);
         if(retiro){
-            System.out.println("Retiro de " + cretiro + "exitoso");
+            System.out.println("Retiro de " + cretiro + " exitoso");
         }else System.out.println("Retiro no exitoso");
         
         System.out.println("\nProbando clase Cliente");
