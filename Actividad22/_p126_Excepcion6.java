@@ -1,4 +1,5 @@
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.Scanner;
 public class _p126_Excepcion6 {
     public static void main(String[] args) {
@@ -7,8 +8,8 @@ public class _p126_Excepcion6 {
             Scanner obj = new Scanner(nombres);
             while (obj.hasNextLine())
                 System.out.println(obj.nextLine());
-        } catch (Exception e) {
-            System.out.println("Problemas al procesar el archivo");
+        } catch (FileNotFoundException e) {
+            System.out.println("El archivo que intentas leer no existe");
         }
     }
 }
