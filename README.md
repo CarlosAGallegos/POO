@@ -101,8 +101,36 @@
 - Cliente
 - CuentaBancaria
 
+## Actividad 20
+- _p114_Animal
+- _p115_Telefono
+-_p116_Juego
+-_p117_FiguraGeometrica
+
+## Actividad 21
+- _p118_Calculadora
+- _p119_Organismo
+
+## Actividad 22
+- _p121_Excepcion1
+- _p122_Excepcion2
+- _p123_Excepcion3
+- _p124_Excepcion4
+- _p125_Excepcion5
+- _p126_Excepcion6
+### _p127_MiExcepcion
+- App
+- FueraDeRango
+
+
 ## Examen
 - _p80_PrimerExamenParcial
+### _p113_SegundoExamenParcial
+- App
+- Equipo
+- Jugador 
+- JugadorActivo
+- JugadorEntrenador
 
  ## Practica 01
 - _p10_HipotenusaTriangulo 
