@@ -13,6 +13,8 @@ public class _p124_Excepcion4 {
         } catch (NumberFormatException | InputMismatchException e) {
             System.out.println("Los valores debe ser numericos y el denominador diferente de 0");
             System.out.println("Mensaje del sistema: " + e);
+        } finally{
+            System.out.println("Hemos terminado! Si no la regaste felicidades, y si la regaste ponte aguzado!");
         }
     }
 }

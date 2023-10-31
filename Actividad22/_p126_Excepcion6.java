@@ -6,9 +6,9 @@ public class _p126_Excepcion6 {
         try {
             Scanner obj = new Scanner(nombres);
             while (obj.hasNextLine())
-            System.out.println(obj.nextLine());
+                System.out.println(obj.nextLine());
         } catch (Exception e) {
-        System.out.println("Problemas al procesar el archivo");
+            System.out.println("Problemas al procesar el archivo");
         }
     }
 }

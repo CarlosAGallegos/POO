@@ -1,4 +1,4 @@
-package Actividad22._p127_MiExcepcion;
+package _p127_MiExcepcion;
 public class App {
     public static int sumar(int a, int b) throws FueraDeRango {
         if(a>100 | b>100)
