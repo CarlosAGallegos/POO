@@ -195,3 +195,17 @@
 - Venta
 - VentaContado
 - VentaCredito
+
+## Practica 11
+### _p120_Vehiculo
+- App
+- Familiar
+- Maquina
+- Sedan
+- SUV
+- TodoTerreno
+- Vehiculo
+
+## Practica 12
+- _p128_ExcepcionRaiz
+- _p129_ExcepcionDulces

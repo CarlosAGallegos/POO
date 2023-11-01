@@ -1,0 +1,17 @@
+package Practica11._p120_Vehiculo;
+
+public class Sedan extends Maquina implements Familiar {
+    public Sedan(String nombre, String propietario, int pasajeros) {
+        super(nombre, propietario, pasajeros);
+    }
+
+    @Override
+    public void carroceriaTres() {
+        System.out.println("Es de tipo familiar con carroceria en tres partes");
+    }
+
+    @Override
+    public void chasisMonocasco() {
+        System.out.println("Es de tipo familiar con chasis monocasco");
+    }
+}
