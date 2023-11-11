@@ -123,6 +123,11 @@
 - FueraDeRango
 
 ## Actividad 23
+- _p140_HolaMundoGUI
+- _p141_AreaTrianguloGUI
+- _p142_LeyDeNewtonGUI
+
+## Actividad 24
 - _p132_Archivos1
 - _p133_Archivos2
 - _p134_Archivos3
@@ -130,6 +135,7 @@
 ### _p136_Archivos5
 - App
 - Persona
+
 
 
 ## Examen
@@ -218,3 +224,8 @@
 ## Practica 12
 - _p128_ExcepcionRaiz
 - _p129_ExcepcionDulces
+
+## Practica 13
+- _p137_ArchivoMunicipios
+- _p138_ArchivoMaterias
+- _p139_ArchivoEstudiante
