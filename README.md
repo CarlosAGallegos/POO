@@ -229,3 +229,7 @@
 - _p137_ArchivoMunicipios
 - _p138_ArchivoMaterias
 - _p139_ArchivoEstudiante
+
+## Practica 14
+- _p143_PagaTrabjador
+- _p144_Temperaturas

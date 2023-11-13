@@ -1,4 +1,3 @@
-package Actividad24;
 import java.awt.Font;
 import javax.swing.*;
 public class _p140_HolaMundoGUI extends JFrame {
