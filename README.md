@@ -136,7 +136,17 @@
 - App
 - Persona
 
+## Actividad 25
+### _p145_HolaMundoGUI_V1
+- App
+- Estudiante
+- Utileria
 
+## Actividad 26
+### _p146_HolaMundoGUI_V2
+- App
+- Estudiante
+- Utileria
 
 ## Examen
 - _p80_PrimerExamenParcial
@@ -146,6 +156,10 @@
 - Jugador 
 - JugadorActivo
 - JugadorEntrenador
+### _p147_TercerExamenParcial
+- App
+- Jugador 
+- Utileria
 
  ## Practica 01
 - _p10_HipotenusaTriangulo 
