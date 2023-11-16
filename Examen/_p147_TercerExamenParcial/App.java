@@ -67,7 +67,7 @@ public class App extends JFrame implements ActionListener {
         spane = new JScrollPane();
         spane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
         pnlTabla.add(spane);
-
+ 
         table = new JTable();
         table.getTableHeader().setBackground(Color.yellow);
         table.getTableHeader().setForeground(Color.black);

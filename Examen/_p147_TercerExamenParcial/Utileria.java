@@ -18,7 +18,7 @@ public class Utileria {
         fpersonas.writeObject(datos);
         fpersonas.close();
     }
-
+ 
     public static ArrayList<Jugador> desSerializarDatos(String archivo) throws IOException, ClassNotFoundException {
         ArrayList<Jugador> datos;
         FileInputStream arch = new FileInputStream(archivo);
